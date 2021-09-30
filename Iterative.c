@@ -64,7 +64,7 @@ int main() {
 
  
 
-// Binary search function for binary search
+
 
 int binsearch(int a[], int x, int low, int high) {
 
